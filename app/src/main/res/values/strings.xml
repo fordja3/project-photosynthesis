@@ -1,6 +1,80 @@
 <resources>
+
+
     <string name="app_name">Photosythesis_Home</string>
     <string name="click_to_open">Click to Open</string>
     <string name="previous">Previous</string>
     <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="favs">Favs</string>
+    <string name="water_intake">Water Intake</string>
+    <string name="sunlight">sunlight</string>
+    <string name="user_history">User History:</string>
+    <string name="plantst_that_use_a_medium_amount_of_water">Plantst that Use a Medium Amount of Water:</string>
+    <string name="photosynthesis">Photosynthesis</string>
+    <string name="list_of_average_sun_intake_plants">list of average sun intake plants</string>
+    <string name="plant_name">Plant name</string>
+    <string name="DragonTree">Dracaena</string>
+    <string name="todo">TODO</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="search_for_plants">Search for Plants</string>
+    <string name="verigated_or_non_verigated">Verigated or Non Verigated</string>
+    <string name="button">Button</string>
+    <string name="non_verigated">Non Verigated</string>
+    <string name="verigated">Verigated</string>
+    <string name="is_your_plant_flowering_or_not_flowering">Is your plant flowering or not flowering?</string>
+    <string name="flowering">flowering</string>
+    <string name="not_flowering">Not Flowering</string>
+    <string name="is_your_plant_verigated_or_non_verigated">Is your plant verigated or non verigated?</string>
+    <string name="plantList">got here</string>
+    <string name="peperomia">Peperomia (Peperomia argyreia)</string>
+    <string name="castIron">Cast-Iron</string>
+    <string name="ChristmasCactus">Christmas Cactus (Schlumbergera x buckle i)</string>
+    <string name="Dieffenbachia">Dieffenbachia</string>
+    <string name="ChineseEvergreen">Chinese Evergreen (Aglaonema commutatum)</string>
+    <string name="waterTimeMonth">Needs a little water approximately once a month</string>
+    <string name="waterTime23w">Moderate amount of water every 2-3 weeks approximately</string>
+    <string name="waterTime2w">Moderately water plant every 2 weeks</string>
+    <string name="waterTime50">Allow the soil to be mostly dry between each watering, water thoroughly</string>
+    <string name="lightD">Needs direct, bright light</string>
+    <string name="lightL">Low level light</string>
+    <string name="lightB">Bright, indirect light</string>
+    <string name="lightMtoH">Medium to high level light</string>
+    <string name="toxicV">Very Toxic</string>
+    <string name="toxicM">Mildly Toxic</string>
+    <string name="nontoxic">Non-toxic</string>
+    <string name="aloe">Aloe</string>
+    <string name="anthurium">Anthurium</string>
+    <string name="ArrowHeadVine">Arrow Head Vine</string>
+    <string name="AsparagusFern">Asparagus Fern</string>
+    <string name="Ficus">Ficus</string>
+    <string name="EnglishIvy">EnglishIvy</string>
+    <string name="Hoya">Hoya</string>
+    <string name="ParlorPalm">Parlor Palm</string>
+    <string name="PeaceLily">Peace Lily</string>
+    <string name="Philodendron">Philodendron</string>
+    <string name="SwedishIvy">Swedish Ivy</string>
+    <string name="Trandescantia">Trandescantia</string>
+    <string name="non_toxic_plants">Non-Toxic Plants</string>
+    <string name="safe">Safe in places with pets and children</string>
+    <string name="spider_plant">Spider Plant</string>
+    <string name="CCactus">Christmas Cactus</string>
+    <string name="by_flower_color">By Flower Color</string>
+    <string name="flower_color">Flower Color</string>
+    <string name="cactusFlowers">White, Pink, Purple, Orange Flowers</string>
+    <string name="anthriumFlowers">White, Red, Pink, Purple, Green Flowers</string>
+    <string name="peaceLilyFlowers">Only White Flowers</string>
+    <string name="hoyaFlowers">White, Pink Flowers</string>
+    <string name="tradescantiaFlowers">White, Pink, Purple, (mostly) Blue Flowers</string>
+    <string name="anthuriumFire">Anthurium (Flaming Flower)</string>
+    <string name="anthWater">Water to keep moist, let top soil dry before watering again</string>
+    <string name="mediumLight">Medium Light</string>
+
+    <string name="textview">TextView</string>
+    <string name="nonbroadleaf">NonBroadleaf</string>
+    <string name="is_your_plant_broadleaf_or_nonbroadleaf">Is your plant broadleaf or nonbroadleaf?</string>
+    <string name="sunlight_intake">Sunlight intake</string>
+
+
 </resources>

@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+            android:label="@string/Photosynthesis"
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,9 +22,44 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".SearchMenu" />
+        <activity android:name=".Search" />
         <activity android:name=".Favorites" />
-        <activity android:name=".Home"></activity>
+        <activity android:name=".Home" />
+        <activity android:name=".StoreHistory" />
+        <activity android:name=".WaterIntake" />
+        <activity android:name=".LessWater" />
+        <activity android:name=".MoreWater" />
+        <activity android:name=".AverageWater" />
+        <activity android:name=".sunlightIntake" />
+        <activity android:name=".MoreSun" />
+        <activity android:name=".AvgSun" />
+        <activity android:name=".LessSun" />
+        <activity android:name=".DragonTree" />
+        <activity android:name=".ArrowheadVine" />
+        <activity android:name=".Peperomia" />
+        <activity android:name=".EnglishIvy" />
+        <activity android:name=".Anthurium" />
+        <activity android:name=".AsparagusFern" />
+        <activity android:name=".ChristmasCactus" />
+        <activity android:name=".Aloe" />
+        //
+        <activity android:name=".searchChecklist" />
+        <activity android:name=".searchFlowering" />
+        <activity android:name=".castIron" />
+        <activity android:name=".Dieffenbachia" />
+        <activity android:name=".Chi_Evergreen" />
+        <activity android:name=".Eng_Ivy" />
+        <activity android:name=".ParlorPalm" />
+        <activity android:name=".Philodendron" />
+        <activity android:name=".SpiderPlant" />
+        <activity android:name=".ficusSue" />
+        <activity android:name=".hoyaSue" />
+        <activity android:name=".TradescantiaSue" />
+        <activity android:name=".SwedishIvy" />
+        <activity android:name=".SnakePlant" />
+        <activity android:name=".PeaceLily" />
+        <activity android:name=".flower_color_sort"/>
+        <activity android:name=".non_toxic_plants"/>
     </application>
 
 </manifest>

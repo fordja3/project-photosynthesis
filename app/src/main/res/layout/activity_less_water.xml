@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#52824c"
+    tools:context=".LessWater"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="220dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Plants that Use Less Water:"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Plants that Use Less Water:" />
+
+    <Button
+        android:id="@+id/buttonAloe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="34dp"
+        android:layout_marginBottom="28dp"
+        android:text="aloe"
+        app:layout_constraintBottom_toTopOf="@+id/asparagus"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Aloe" />
+
+    <Button
+        android:id="@+id/asparagus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginBottom="22dp"
+        android:text="Asparagus"
+        app:layout_constraintBottom_toTopOf="@+id/buttonChris"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Asparagus" />
+
+    <Button
+        android:id="@+id/Dragon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginBottom="21dp"
+        android:text="Dragon Tree"
+        app:layout_constraintBottom_toTopOf="@+id/buttonFicusSue"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Dragon Tree" />
+
+    <Button
+        android:id="@+id/buttonPeper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:text="Peperomia"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSnake"
+        app:layout_constraintStart_toStartOf="@+id/buttonSnake"
+        tools:text="Peperomia" />
+
+    <Button
+        android:id="@+id/buttonFicusSue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="34dp"
+        android:layout_marginBottom="29dp"
+        android:text="Ficus"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Ficus" />
+
+    <Button
+        android:id="@+id/buttonHoyaSue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:text="Hoya"
+        app:layout_constraintBottom_toTopOf="@+id/buttonPeper"
+        app:layout_constraintStart_toStartOf="@+id/buttonPeper"
+        tools:text="Hoya" />
+
+    <Button
+        android:id="@+id/buttonTrad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="46dp"
+        android:layout_marginBottom="29dp"
+        android:text="Tradescantia"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:text="Tradescantia" />
+
+    <Button
+        android:id="@+id/buttonSwe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="21dp"
+        android:text="Swedish Ivy"
+        app:layout_constraintBottom_toTopOf="@+id/buttonTrad"
+        app:layout_constraintEnd_toEndOf="@+id/buttonTrad"
+        tools:text="Swedish Ivy" />
+
+    <Button
+        android:id="@+id/buttonSnake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="27dp"
+        android:text="Snake Plant"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSwe"
+        app:layout_constraintStart_toStartOf="@+id/buttonSwe"
+        tools:text="Snake Plant" />
+
+    <Button
+        android:id="@+id/buttonChris"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginBottom="27dp"
+        android:text="Christmas Cactus"
+        app:layout_constraintBottom_toTopOf="@+id/Dragon"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Christmas Cactus" />
+
+</android.support.constraint.ConstraintLayout>
